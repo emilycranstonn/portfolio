@@ -1,0 +1,33 @@
+baseURL = "http://localhost:1313/portfolio/"
+languageCode = "en-us"
+title = "Emily Cranston"
+theme = "archie"
+copyright = "© Emily Cranston"
+[params]
+  customcss = ["css/style.css"]
+  subtitle = "Geographer and GIS Analyst | M.S. Geography + Environment"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/emily-cranston-16188829a/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/About"
+weight = 2
+
+[[menu.main]]
+name = "Portfolio"
+url = "/portfolio"
+weight = 3
+
+[[menu.main]]
+name = "Resume"
+url = "/resume"
+weight = 4

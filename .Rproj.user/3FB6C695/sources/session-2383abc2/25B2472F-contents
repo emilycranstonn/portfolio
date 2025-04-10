@@ -1,0 +1,8 @@
+baseURL = "https://emilycranstonn.github.io/portfolio/"
+languageCode = "en-us"
+title = "Emily Cranston"
+theme = "archie"
+
+[params]
+  mode = "light"
+  subtitle = "Geographer | Climate Communicator | Portfolio"
